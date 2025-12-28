@@ -1,1 +1,1 @@
-10X zoom in space stage
+10X zoom speed in space stage
